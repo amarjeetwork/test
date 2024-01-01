@@ -1,1 +1,2 @@
-this is a test file.
+hello all,
+this docs have no meaning except for test purpose.
